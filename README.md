@@ -11,4 +11,4 @@ Inside the "data" directory rename the following files:
 
 ## Starting the Application
 
-In terminal type "python py-time-tracker.py"
+In terminal type "python time-tracker.py"
